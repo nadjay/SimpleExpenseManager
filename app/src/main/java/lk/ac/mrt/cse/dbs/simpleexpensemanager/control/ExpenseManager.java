@@ -133,4 +133,6 @@ public abstract class ExpenseManager implements Serializable {
      * objects will be initialized.
      */
     public abstract void setup() throws ExpenseManagerException;
+
+
 }
